@@ -1,3 +1,9 @@
+# Add Games
+You can always add games to the webpage whenever you want to.
+
+# Optimize code
+if possible
+
 # Juegos
 
 Si quieres meter juegos en la pagina edita el archivo "juegos que quiero.txt" y hare lo mirare
@@ -21,3 +27,4 @@ ahora cuando tengas todos los archivos, subelos y haz pull request.
 ## Avanzado
 
 Si has mejorado el codigo haz pull request
+ 
